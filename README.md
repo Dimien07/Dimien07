@@ -1,16 +1,15 @@
-<h1 align="center">Hi there, I'm Dimien Brasana! 👋</h1>
+## Hi there, I'm Dimien Brasana! 👋
 
-<h3 align="center">
-  Turning Data, Finance & Technology into Actionable Insights
-</h3>
+<div align="center">
+  <!--  You can customize the typing text in the "lines=" section of the URL below -->
+  <!--  For an ampersand (&), use &amp; (e.g., Analytics+%26+Optimization) -->
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=550&lines=Junior+Data+Analyst+%7C+Business+Intelligence;Turning+Data+into+Actionable+Insights;Junior+Data+Scientist[Excel+%7C+PowerBI+%7C+SQL+%7C+Python];Available+to+Hire" alt="Typing SVG" />
+</div>
 
+<!-- 🔗 Update these links with your own social media and contact information -->
 <p align="center">
-  <a href="YOUR-LINKEDIN-URL">
-    <img src="https://img.shields.io/badge/LINKEDIN-CONNECT-555555?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:YOUR-EMAIL">
-    <img src="https://img.shields.io/badge/EMAIL-CONTACT-555555?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
+  <a href="https://https://linkedin.com/in/dimien-brasana-722456219/"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"></a>
+  <a href="mailto:brasanadimien@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-green?style=for-the-badge&logo=gmail"></a>
 </p>
 
 ---
